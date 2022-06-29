@@ -1,0 +1,27 @@
+#payments{
+    width: 100%;
+}
+#payments #heading{
+    border: solid black 2px;
+    border-radius: 5px;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    color:#eee;
+    background-color: #3E474F;
+}
+#payment{
+    color:#4B5658;
+    /* border: solid black 2px; */
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+    background-color: #fff;
+}
+
+#payment *{
+    margin: 5px;
+}
